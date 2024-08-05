@@ -23,6 +23,6 @@
     <img height=168 align="center" style="max-width: 100%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriansaav27&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=tokyonight&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
