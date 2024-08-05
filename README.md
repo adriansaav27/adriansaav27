@@ -19,19 +19,19 @@
   <table align="center">
   <tr border="none">
   <td width="50%" align="center">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adriansaav27&show_icons=true&theme=dark&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adriansaav27&show_icons=true&theme=tokyonight&rank_icon=github" />
     <br></br>
-    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adriansaav27&theme=dark&hide_border=false" /> 
+    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adriansaav27&theme=tokyonight&hide_border=false" /> 
   </td>
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansaav27&layout=donut-vertical&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansaav27&layout=donut-vertical&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   </tr>
   </table>
   
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=tokyonight&row=1&column=8&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
     </a>
   </div>
 </div>    
