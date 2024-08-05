@@ -1,7 +1,3 @@
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/adriansaav27/adriansaav27/main/barra.gif"> 
-</div>
-
 <h1 align="center">Hola, soy adriansaav27 <img src="https://raw.githubusercontent.com/adriansaav27/adriansaav27/main/agitar-la-mano.gif" height="40" style="max-width: 100%; display: inline-block;"></h1> 
 
 <div align="center"> 
@@ -29,8 +25,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
-</div>
-
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/adriansaav27/adriansaav27/main/barra.gif"> 
 </div>
