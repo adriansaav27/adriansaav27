@@ -15,7 +15,7 @@
 </div>
 
 ## <img width="25" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"><b>Estadísticas GitHub</b>
-<div align="center"> 
+<p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=168 align="center" style="max-width: 100%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=adriansaav27&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
@@ -25,4 +25,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriansaav27&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
-</div>
+</p>
